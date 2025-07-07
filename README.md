@@ -16,7 +16,7 @@ A research-grade agentic RAG (Retrieval-Augmented Generation) application with a
 Clone the repository and install dependencies:
 
 ```bash
-git clone 
+git clone NavinduKojitha/Agentic-Research-Assistant-RAG-
 cd agentic-research-assistant
 pip install -r requirements.txt
 python app.py
