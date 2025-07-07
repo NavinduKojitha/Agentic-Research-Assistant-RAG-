@@ -17,6 +17,6 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone NavinduKojitha/Agentic-Research-Assistant-RAG-
-cd agentic-research-assistant
+cd Agentic-Research-Assistant-RAG-
 pip install -r requirements.txt
 python app.py
